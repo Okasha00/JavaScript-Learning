@@ -1,5 +1,6 @@
 let bankBalance = 1000;
 
+//using array to test multiple withdrawal amounts
 
 // An array of withdrawal amounts to test the ATM logic
 let withdrawalAmounts = [600, 300, 700, 500, 1000];
